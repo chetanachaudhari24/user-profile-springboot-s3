@@ -3,7 +3,7 @@ This application allows user to upload user profile image and other details and 
 
 It is implemented using spring boot at backend and react-js as frontend. RESTFUL API uploads and retrives photos from S3 bucket and stores all user profile related data in postgreSQL database.
 
-[](/System-architecture.png)
+[](System-architecture.png)
 
 
 
